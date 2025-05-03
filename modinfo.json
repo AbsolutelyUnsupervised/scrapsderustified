@@ -1,0 +1,22 @@
+{
+    "Type": 1,
+    "TextureSize": 32,
+    "Name": "Scraps Derustified",
+    "Version": "0.1.0",
+    "NetworkVersion": null,
+    "Description": "Update to 'Scraps' - Restore and recycle the clutter from the ruins!",
+    "Website": "",
+    "ModID": "scrapsderustified",
+    "Authors": [
+        "VesPuppy"
+    ],
+    "Contributors": [
+        "Medeka"
+    ],
+    "Side": "Universal",
+    "RequiredOnClient": true,
+    "RequiredOnServer": true,
+    "Dependencies": {
+        "scraps": "1.1.1"
+    }
+}
